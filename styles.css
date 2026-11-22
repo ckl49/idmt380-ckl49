@@ -1,0 +1,13 @@
+body {
+  font-family: "Nunito Sans", sans-serif;
+  letter-spacing: -0.02em;
+}
+
+h1, h2, .serif {
+  font-family: "Averia Serif Libre", serif;
+}
+
+var {
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 700;
+}
